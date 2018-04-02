@@ -7,5 +7,5 @@ function groupProject(determination) {
 };
 
 
-console.log('trever sucks Hell yeah - stone cold ET')
+console.log('trevor sucks Hell yeah - stone cold ET')
 
